@@ -9,7 +9,7 @@ let teclas = {
   let tentativas = [];
   let tentativaAtual = [];
   
-  const palavraSecreta = 'word';
+  const palavraSecreta = 'school';
   const numTentativas = 6;
   const correto = 'correto';
   const achou = 'achou';
